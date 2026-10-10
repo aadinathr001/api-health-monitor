@@ -1,0 +1,6 @@
+{
+  "name": "API Health Monitor",
+  "description": "Real-time API endpoint uptime, response time, and availability monitoring dashboard with automated periodic health checks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
