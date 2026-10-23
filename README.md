@@ -1,4 +1,4 @@
-# API Health Monitor
+# HealthPing - API Health Monitor
 
 A real-time API uptime, response latency, and availability monitoring dashboard built with **React**, **Vite**, and a **Node.js/Express** backend probe engine.
 
